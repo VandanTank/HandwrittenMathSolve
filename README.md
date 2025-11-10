@@ -110,8 +110,8 @@ Then, simply **draw your equation** on the canvas window and watch it recognize 
 ## Demonstration
 
 ### Example Output:
-> **Drawn Expression →** `4 + 5`  
-> **Model Output →** `9`
+> **Drawn Expression →** `6.02*(2+2)`  
+> **Model Output →** `24.08`
 
 
 ### Demo
