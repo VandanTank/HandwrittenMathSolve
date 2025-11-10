@@ -78,19 +78,12 @@ HandwrittenMathSolve/
 
 #### Clone the repository
 git clone https://github.com/VandanTank/HandwrittenMathSolve.git
-cd HandwrittenMathSolve
 
 #### Create a virtual environment (recommended)
 
 # On Windows
 python -m venv venv
 venv\Scripts\activate
-
-# On macOS/Linux
-python3 -m venv venv
-source venv/bin/activate
-
-
 
 # Install dependencies
 pip install -r requirements.txt
