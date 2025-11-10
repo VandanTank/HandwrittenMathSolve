@@ -145,3 +145,9 @@ B.Tech in Computer Science and Engineering
 ---
 
 ## License
+This project is licensed under the [MIT License](./LICENSE).
+
+You are free to use, modify, and distribute this project for personal or commercial purposes,
+as long as you include proper attribution to the original author.
+
+
